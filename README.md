@@ -1,16 +1,9 @@
-# simple_tiktok_ui
+# Simple TikTok UI
 
-A new Flutter project.
+Simple TikTok UI
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_TikTok_UI/assets/146417248/4e8978b8-b2bf-4325-bb4d-aa8d93e8db88)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_TikTok_UI/assets/146417248/9cf0f17e-91ed-4ec1-892a-9cf83f613873)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Simple_TikTok_UI/assets/146417248/febe2249-560b-47c8-a5a5-4de498f501c7)
